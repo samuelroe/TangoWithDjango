@@ -24,6 +24,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\populate_rango.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\rango\admin.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\rango\urls.py">
           <value>
             <Attribute>
