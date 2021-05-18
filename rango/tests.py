@@ -6,3 +6,4 @@ from django.test import TestCase
 # chapter 5 - 10 out of 11 passed
 # chapter 6 - 10 out of 17 passed
 # chapter 7 - 14 out of 14 passed
+# chapter 8 - 5 out of 5 passed

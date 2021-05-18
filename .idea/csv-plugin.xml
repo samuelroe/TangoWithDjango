@@ -73,6 +73,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\templates\rango\add_page.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\templates\rango\base.html">
           <value>
             <Attribute>
