@@ -1,4 +1,5 @@
 from django.contrib import admin
+from rango.models import UserProfile
 
 # Register your models here.
 
@@ -15,3 +16,4 @@ class PageAdmin(admin.ModelAdmin):
     pass
 
 admin.site.register(Page,PageAdmin)
+admin.site.register(UserProfile)
