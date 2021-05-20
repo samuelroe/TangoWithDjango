@@ -8,3 +8,4 @@ from django.test import TestCase
 # chapter 7 - 14 out of 14 passed
 # chapter 8 - 5 out of 5 passed
 # chapter 9 - 26 out of 33 passed (all fails)
+# chapter 10 - 3 out of 6 passed (all fails)
